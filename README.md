@@ -15,7 +15,8 @@ List of telegram groups sorted by number of members at the moment
 
 - Spanish
   - [Docker](https://telegram.me/DockerEs)
-
+  - [Hardware](https://telegram.me/pcMasterRaze)
+  
 ## Programming Languages
 
 - English
@@ -48,4 +49,7 @@ List of telegram groups sorted by number of members at the moment
 - Spanish
   - [InfoSec - General](https://telegram.me/infoseces)
   - [General](https://telegram.me/seginformatica)
+  - [Ingeniería inversa - Comunidad CLS](https://telegram.me/crackslatinos)
+  - [Pentesting - Comunidad CLS](https://telegram.me/CLSPentesting)
+  - [Exploiting - Comunidad CLS](https://telegram.me/CLSExploits)
   - [Informática Forense](https://telegram.me/forense)
