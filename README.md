@@ -11,11 +11,9 @@ List of telegram groups sorted by number of members at the moment
 ## Misc
 
 - English
-
   - [Geeks Chat](https://telegram.me/geeksChat)
 
 - Spanish
-
   - [Docker](https://telegram.me/DockerEs)
 
 ## Programming Languages
@@ -49,3 +47,5 @@ List of telegram groups sorted by number of members at the moment
 
 - Spanish
   - [InfoSec - General](https://telegram.me/infoseces)
+  - [General](https://telegram.me/seginformatica)
+  - [Informática Forense](https://telegram.me/forense)
