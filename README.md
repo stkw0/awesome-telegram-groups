@@ -5,6 +5,7 @@ List of telegram groups
 
 - [Programming Languages](#programming-languages)
 - [*nix Distributions](#unix-like-distros)
+- [Computer Security related](#computer-security)
 
 ## Programming Languages
 
@@ -32,3 +33,8 @@ List of telegram groups
   - [Gentoo](https://telegram.me/gentoo_es)
   - [Debian](https://telegram.me/Debian_es)
   - [Arch](https://telegram.me/Archlinux_es)
+
+## Computer Security
+
+- Spanish
+  - [InfoSec - General](https://telegram.me/infoseces)
