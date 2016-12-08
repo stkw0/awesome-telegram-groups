@@ -1,11 +1,22 @@
 # awesome-telegram-groups
-List of telegram groups 
+List of telegram groups sorted by number of members at the moment
 
 ## Contents
 
+- [Misc](#misc)
 - [Programming Languages](#programming-languages)
 - [*nix Distributions](#unix-like-distros)
 - [Computer Security related](#computer-security)
+
+## Misc
+
+- English
+
+  - [Geeks Chat](https://telegram.me/geeksChat)
+
+- Spanish
+
+  - [Docker](https://telegram.me/DockerEs)
 
 ## Programming Languages
 
@@ -13,15 +24,15 @@ List of telegram groups
   - [General](https://telegram.me/theprogrammingartgroup)
 
 - Spanish
-  - [C & C++](https://telegram.me/programacionc)
-  - [Java](https://telegram.me/programacion_Java)
-  - [Python](https://telegram.me/Python_es) 
   - [Python](http://Telegram.me/pythonesp) 
-  - [Nodejs](https://telegram.me/programadores_nodejs)
-  - [SQL](https://telegram.me/esequele)
-  - [Java for android](https://telegram.me/programacionjavaandroid)
-  - [Web](http://Telegram.me/programarwebs)
   - [General](https://telegram.me/general_programacion)
+  - [Web](http://Telegram.me/programarwebs)
+  - [C & C++](https://telegram.me/programacionc)
+  - [Java for android](https://telegram.me/programacionjavaandroid)
+  - [Nodejs](https://telegram.me/programadores_nodejs)
+  - [Python](https://telegram.me/Python_es) 
+  - [SQL](https://telegram.me/esequele)
+  - [Java](https://telegram.me/programacion_Java)
 
 ## Unix-like distros
 
@@ -30,9 +41,9 @@ List of telegram groups
 
 - Spanish
   - [General GNU/Linux](https://telegram.me/lignux)
-  - [Gentoo](https://telegram.me/gentoo_es)
-  - [Debian](https://telegram.me/Debian_es)
   - [Arch](https://telegram.me/Archlinux_es)
+  - [Debian](https://telegram.me/Debian_es)
+  - [Gentoo](https://telegram.me/gentoo_es)
 
 ## Computer Security
 
