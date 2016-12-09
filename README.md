@@ -16,6 +16,7 @@ List of telegram groups sorted by number of members at the moment
 - Spanish
   - [Docker](https://telegram.me/DockerEs)
   - [Hardware](https://telegram.me/pcMasterRaze)
+  - [Game development](https://telegram.me/gamedev_es)
   
 ## Programming Languages
 
@@ -30,6 +31,7 @@ List of telegram groups sorted by number of members at the moment
   - [Java for android](https://telegram.me/programacionjavaandroid)
   - [Nodejs](https://telegram.me/programadores_nodejs)
   - [Python](https://telegram.me/Python_es) 
+  - [Python - PyQt](https://telegram.me/joinchat/CKcrRT_zUiroJBFjng-Meg)
   - [SQL](https://telegram.me/esequele)
   - [Java](https://telegram.me/programacion_Java)
 
