@@ -32,7 +32,7 @@ List of telegram groups sorted by number of members at the moment
   - [Nodejs](https://telegram.me/programadores_nodejs)
   - [PHP](https://telegram.me/joinchat/CKcrRUDOJwkooeKqcQk7Nw)
   - [Python](https://telegram.me/Python_es) 
-  - [Python - PyQt](https://telegram.me/pyqt5)
+  - [Python - PyQt](https://telegram.me/pyqte)
   - [SQL](https://telegram.me/esequele)
   - [Java](https://telegram.me/programacion_Java)
 
