@@ -26,6 +26,7 @@ List of telegram groups sorted by number of members at the moment
 - English
   - [General](https://telegram.me/theprogrammingartgroup)
   - [Javascript](https://telegram.me/nairobijs)
+  - [Python](https://telegram.me/joinchat/DP9KNUF73nvJR4GC26Lb6w)
   - [C & C++](https://telegram.me/programminginc)
 
 - Spanish
