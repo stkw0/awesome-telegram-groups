@@ -12,7 +12,10 @@ List of telegram groups sorted by number of members at the moment
 
 - English
   - [Geeks Chat](https://telegram.me/geeksChat)
-
+  - [Telegram Bot Development](https://telegram.me/botsChat)
+  - [Intellectual group](https://telegram.me/joinfreethinkers)
+  - [Writers group](http://telegram.me/WritersClub)
+  
 - Spanish
   - [Docker](https://telegram.me/DockerEs)
   - [Hardware](https://telegram.me/pcMasterRaze)
@@ -22,6 +25,8 @@ List of telegram groups sorted by number of members at the moment
 
 - English
   - [General](https://telegram.me/theprogrammingartgroup)
+  - [Javascript](https://telegram.me/nairobijs)
+  - [C & C++](https://telegram.me/programminginc)
 
 - Spanish
   - [Python](http://Telegram.me/pythonesp) 
