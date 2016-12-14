@@ -59,6 +59,7 @@ List of telegram groups sorted by number of members at the moment
 - Spanish
   - [InfoSec - General](https://telegram.me/infoseces)
   - [General](https://telegram.me/seginformatica)
+  - [General](https://telegram.me/hackplayers)
   - [Ingeniería inversa - Comunidad CLS](https://telegram.me/crackslatinos)
   - [Pentesting - Comunidad CLS](https://telegram.me/CLSPentesting)
   - [Exploiting - Comunidad CLS](https://telegram.me/CLSExploits)
