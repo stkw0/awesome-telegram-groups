@@ -47,11 +47,13 @@ List of telegram groups sorted by number of members at the moment
 
 - English
   - [General GNU/Linux](https://telegram.me/linux_group)
+  - [Antergos](https://telegram.me/Antergos)
   - [Gentoo](https://telegram.me/gentoofuntoogroup)
 
 - Spanish
   - [General GNU/Linux](https://telegram.me/lignux)
   - [Arch](https://telegram.me/Archlinux_es)
+  - [Manjaro](https://telegram.me/manjarolinuxes)
   - [Debian](https://telegram.me/Debian_es)
   - [Gentoo](https://telegram.me/gentoo_es)
 
