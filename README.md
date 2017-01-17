@@ -33,7 +33,6 @@ List of telegram groups sorted by number of members at the moment
   - [Python](http://Telegram.me/pythonesp) 
   - [General](https://telegram.me/general_programacion)
   - [Web](http://Telegram.me/programarwebs)
-  - [C & C++](https://telegram.me/programacionc)
   - [Java for android](https://telegram.me/programacionjavaandroid)
   - [Nodejs](https://telegram.me/programadores_nodejs)
   - [PHP](https://telegram.me/joinchat/CKcrRUDOJwkooeKqcQk7Nw)
@@ -42,6 +41,7 @@ List of telegram groups sorted by number of members at the moment
   - [Python - PyQt](https://telegram.me/pyqte)
   - [SQL](https://telegram.me/esequele)
   - [Java](https://telegram.me/programacion_Java)
+  - [C & C++](https://t.me/joinchat/AAAAAD8fwIQuhK2fZH43Lg)
 
 ## Unix-like distros
 
