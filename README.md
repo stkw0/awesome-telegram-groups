@@ -43,6 +43,11 @@ List of telegram groups sorted by number of members at the moment
   - [Java](https://telegram.me/programacion_Java)
   - [C & C++](https://t.me/joinchat/AAAAAD8fwIQuhK2fZH43Lg)
 
+- Russian
+  - [Javascript](https://t.me/javascript_ru)
+  - [CSS](https://t.me/css_ru)
+  - [frontend_ru](https://t.me/frontend_ru)
+
 ## Unix-like distros
 
 - English
