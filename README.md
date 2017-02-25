@@ -40,8 +40,9 @@ List of telegram groups sorted by number of members at the moment
   - [Java - Android](https://telegram.me/sdkandroid)
   - [Python - PyQt](https://telegram.me/pyqte)
   - [SQL](https://telegram.me/esequele)
+  - [C & C++](https://t.me/programacioncycpp)
   - [Java](https://telegram.me/programacion_Java)
-  - [C & C++](https://t.me/joinchat/AAAAAD8fwIQuhK2fZH43Lg)
+  - [Ruby](https://t.me/Ruby_es)
 
 - Russian
   - [Javascript](https://t.me/javascript_ru)
