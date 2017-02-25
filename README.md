@@ -42,6 +42,7 @@ List of telegram groups sorted by number of members at the moment
   - [SQL](https://telegram.me/esequele)
   - [C & C++](https://t.me/programacioncycpp)
   - [Java](https://telegram.me/programacion_Java)
+  - [Rust](https://t.me/rust_es)
   - [Ruby](https://t.me/Ruby_es)
 
 - Russian
