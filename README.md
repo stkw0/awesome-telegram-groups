@@ -45,6 +45,7 @@ List of telegram groups sorted by number of members at the moment
   - [Ruby On Rails](https://t.me/Ruby_Rails)
   - [Rust](https://t.me/rust_es)
   - [Ruby](https://t.me/Ruby_es)
+  - [Golang](https://t.me/Go_es)
 
 - Russian
   - [Javascript](https://t.me/javascript_ru)
