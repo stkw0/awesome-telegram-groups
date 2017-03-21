@@ -69,6 +69,7 @@ List of telegram groups sorted by number of members at the moment
   - [Debian](https://telegram.me/debian_esp)
   - [Gentoo](https://telegram.me/gentoo_es)
   - [Slackware](https://telegram.me/slackware_es)
+  - [BSD](https://t.me/sistemasbsd)
 
 ## Computer Security
 
