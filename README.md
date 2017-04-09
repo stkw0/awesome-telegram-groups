@@ -21,6 +21,7 @@ List of telegram groups sorted by number of members at the moment
   - [Telegram Bot Development](https://t.me/TgBotDevs)
   - [Hardware](https://telegram.me/pcMasterRaze)
   - [Game development](https://telegram.me/gamedev_es)
+  - [DC Comic](https://t.me/DCComicLatinoamerica)
   
 ## Programming Languages
 
@@ -64,6 +65,7 @@ List of telegram groups sorted by number of members at the moment
 - Spanish
   - [General GNU/Linux](https://telegram.me/lignux)
   - [Arch](https://telegram.me/Archlinux_es)
+  - [Arch](https://t.me/ArchlinuxLatinoamerica)
   - [Manjaro](https://telegram.me/manjarolinuxes)
   - [Debian](https://telegram.me/Debian_es)
   - [Debian](https://telegram.me/debian_esp)
