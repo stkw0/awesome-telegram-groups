@@ -18,10 +18,12 @@ List of telegram groups sorted by number of members at the moment
   
 - Spanish
   - [Docker](https://telegram.me/DockerEs)
+  - [Libros de Programación](https://t.me/LibPro)
   - [Telegram Bot Development](https://t.me/TgBotDevs)
   - [Hardware](https://telegram.me/pcMasterRaze)
   - [Game development](https://telegram.me/gamedev_es)
-  - [DC Comic](https://t.me/DCComicLatinoamerica)
+  - [Street Workout Hispano](https://t.me/SWHis)
+  - [Freelancers Community](https://t.me/freelancersve)
   
 ## Programming Languages
 
@@ -47,6 +49,7 @@ List of telegram groups sorted by number of members at the moment
   - [Ruby On Rails](https://t.me/Ruby_Rails)
   - [Rust](https://t.me/rust_es)
   - [Ruby](https://t.me/Ruby_es)
+  - [Ruby](https://t.me/rubymotions)
   - [Golang](https://t.me/Go_es)
 
 - Russian
