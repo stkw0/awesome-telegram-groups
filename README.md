@@ -24,6 +24,7 @@ List of telegram groups sorted by number of members at the moment
   - [Game development](https://telegram.me/gamedev_es)
   - [Street Workout Hispano](https://t.me/SWHis)
   - [Freelancers Community](https://t.me/freelancersve)
+  - [Phaser.js, gamedev library](https://t.me/phaser_es)
   
 ## Programming Languages
 
@@ -37,6 +38,7 @@ List of telegram groups sorted by number of members at the moment
   - [Python](http://Telegram.me/pythonesp) 
   - [General](https://telegram.me/general_programacion)
   - [Web](http://Telegram.me/programarwebs)
+  - [Web](http://t.me/WebESP)
   - [Java for android](https://telegram.me/programacionjavaandroid)
   - [Nodejs](https://telegram.me/programadores_nodejs)
   - [PHP](https://telegram.me/joinchat/CKcrRUDOJwkooeKqcQk7Nw)
@@ -51,7 +53,8 @@ List of telegram groups sorted by number of members at the moment
   - [Ruby](https://t.me/Ruby_es)
   - [Ruby](https://t.me/rubymotions)
   - [Golang](https://t.me/Go_es)
-
+  - [Assembler](https://t.me/AsmESP)
+  
 - Russian
   - [Javascript](https://t.me/javascript_ru)
   - [CSS](https://t.me/css_ru)
