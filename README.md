@@ -74,6 +74,7 @@ List of telegram groups sorted by number of members at the moment
   - [Arch](https://t.me/ArchlinuxLatinoamerica)
   - [Manjaro](https://telegram.me/manjarolinuxes)
   - [Debian](https://telegram.me/Debian_es)
+  - [Fedora](https://t.me/fedoraesp)
   - [Slackware](https://telegram.me/slackware_es)
   - [BSD](https://t.me/sistemasbsd)
   - [Void](https://t.me/Void_Linux_es)
