@@ -25,6 +25,7 @@ List of telegram groups sorted by number of members at the moment
   - [Street Workout Hispano](https://t.me/SWHis)
   - [Freelancers Community](https://t.me/freelancersve)
   - [Phaser.js, gamedev library](https://t.me/phaser_es)
+  - [Linux gamming](https://t.me/EnLinuxjugamos)
   
 ## Programming Languages
 
@@ -68,6 +69,7 @@ List of telegram groups sorted by number of members at the moment
   - [Gentoo](https://t.me/gentoogram)
   - [Arch](https://t.me/archlinuxgroup)
   - [Antergos](https://telegram.me/Antergos)
+  - [Void](https://t.me/voidlin)
 
 - Spanish
   - [General GNU/Linux](https://telegram.me/lignux)
@@ -78,6 +80,7 @@ List of telegram groups sorted by number of members at the moment
   - [Fedora](https://t.me/fedoraesp)
   - [Slackware](https://telegram.me/slackware_es)
   - [BSD](https://t.me/sistemasbsd)
+  - [Devuan](https://t.me/devuanlinux)
   - [Void](https://t.me/Void_Linux_es)
   - [Gentoo](https://t.me/gentoo_rocks)
 
