@@ -1,5 +1,5 @@
 # awesome-telegram-groups
-List of telegram groups sorted by number of members at the moment
+List of telegram groups ~~sorted by number of members at the moment~~ without any special order (until I do something to automatically sort them)
 
 ## Contents
 
@@ -15,6 +15,9 @@ List of telegram groups sorted by number of members at the moment
   - [Telegram Bot Development](https://telegram.me/botsChat)
   - [Intellectual group](https://telegram.me/joinfreethinkers)
   - [Writers group](http://telegram.me/WritersClub)
+  - [Android](https://t.me/joinchat/AAAAAEFs51MT1z2bWDhZBQ)
+  - [DevOps](https://t.me/joinchat/BkBvqULzhcG1AhRE7ljMyg)
+  - [Design](https://t.me/joinchat/AAAAAEKREgzW3ypwIjRwpQ)
   
 - Spanish
   - [Docker](https://telegram.me/DockerEs)
@@ -33,7 +36,13 @@ List of telegram groups sorted by number of members at the moment
   - [General](https://telegram.me/theprogrammingartgroup)
   - [Javascript](https://telegram.me/nairobijs)
   - [Python](https://t.me/pythongroup)
+  - [C & C++](https://t.me/joinchat/AAAAAD_cJVeMzHBQMtxB5w)
   - [C & C++](https://telegram.me/programminginc)
+  - [Java](https://t.me/joinchat/AAAAAEHS8_F0yoL401QNuQ)
+  - [Javascript](https://t.me/joinchat/AAAAAEEU-CGtxqPvZzRXug)
+  - [Python](https://t.me/joinchat/AAAAAEI6mgRpU8Ook_LZiQ)
+  - [PHP](https://t.me/joinchat/AAAAAEI7auDV7fUlhQpKbw)
+  - [iOS/swift](https://t.me/joinchat/AAAAAEHGFQmBITbYfSSmrA)
 
 - Spanish
   - [Python](http://Telegram.me/pythonesp) 
@@ -64,6 +73,7 @@ List of telegram groups sorted by number of members at the moment
 ## Unix-like distros
 
 - English
+  - [Linux](https://t.me/joinchat/AAAAAEJIlclCRzYqrMYwNQ)
   - [General GNU/Linux](https://telegram.me/linux_group)
   - [Fedora](https://t.me/fedora)
   - [Gentoo](https://t.me/gentoogram)
