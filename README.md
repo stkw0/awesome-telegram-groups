@@ -42,6 +42,7 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [Javascript](https://t.me/joinchat/AAAAAEEU-CGtxqPvZzRXug)
   - [Python](https://t.me/joinchat/AAAAAEI6mgRpU8Ook_LZiQ)
   - [PHP](https://t.me/joinchat/AAAAAEI7auDV7fUlhQpKbw)
+  - [C#](https://t.me/joinchat/BkBvqUMHMofJD5zUIN16wg)
 
 - Spanish
   - [Python](http://Telegram.me/pythonesp) 
