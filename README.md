@@ -96,6 +96,9 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
 
 ## Computer Security
 
+- English
+  - [Hackergram](https://t.me/joinchat/AFME_0QJlOiGOShd3ER2-w)
+
 - Spanish
   - [InfoSec - General](https://telegram.me/infoseces)
   - [General](https://telegram.me/seginformatica)
@@ -104,3 +107,4 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [Pentesting - Comunidad CLS](https://telegram.me/CLSPentesting)
   - [Exploiting - Comunidad CLS](https://telegram.me/CLSExploits)
   - [Informática Forense](https://telegram.me/forense)
+  - [Hackergram](https://t.me/joinchat/AFME_zz0ZasE5xxssOGXwA)
