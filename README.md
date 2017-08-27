@@ -30,6 +30,7 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [Phaser.js, gamedev library](https://t.me/phaser_es)
   - [Linux gamming](https://t.me/EnLinuxjugamos)
   - [Window Managers hispano](https://t.me/window_manager_Latam)
+  - [XFCE](https://telegram.me/grupoxfce)
   
 ## Programming Languages
 
