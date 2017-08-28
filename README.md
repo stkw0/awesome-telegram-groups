@@ -71,6 +71,7 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [Javascript](https://t.me/javascript_ru)
   - [CSS](https://t.me/css_ru)
   - [frontend_ru](https://t.me/frontend_ru)
+  - [Python](https://t.me/itforge)
 
 ## Unix-like distros
 
