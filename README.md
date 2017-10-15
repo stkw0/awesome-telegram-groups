@@ -66,6 +66,8 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [Ruby](https://t.me/rubymotions)
   - [Golang](https://t.me/Go_es)
   - [Assembler](https://t.me/AsmESP)
+  - [Kotlin](https://t.me/kotlinES)
+  - [Angular](https://t.me/AngularWeb)
   
 - Russian
   - [Javascript](https://t.me/javascript_ru)
