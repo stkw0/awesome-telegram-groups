@@ -18,7 +18,7 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [Android](https://t.me/joinchat/AAAAAEFs51MT1z2bWDhZBQ)
   - [DevOps](https://t.me/joinchat/BkBvqULzhcG1AhRE7ljMyg)
   - [Design](https://t.me/joinchat/AAAAAEKREgzW3ypwIjRwpQ)
-  
+
 - Spanish
   - [Docker](https://telegram.me/DockerEs)
   - [Libros de Programación](https://t.me/LibPro)
@@ -31,7 +31,7 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [Linux gamming](https://t.me/EnLinuxjugamos)
   - [Window Managers hispano](https://t.me/window_manager_Latam)
   - [XFCE](https://telegram.me/grupoxfce)
-  
+
 ## Programming Languages
 
 - English
@@ -47,14 +47,14 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [C#](https://t.me/joinchat/BkBvqUMHMofJD5zUIN16wg)
 
 - Spanish
-  - [Python](http://Telegram.me/pythonesp) 
+  - [Python](http://Telegram.me/pythonesp)
   - [General](https://telegram.me/general_programacion)
   - [Web](http://Telegram.me/programarwebs)
   - [Web](http://t.me/WebESP)
   - [Java for android](https://telegram.me/programacionjavaandroid)
   - [Nodejs](https://telegram.me/programadores_nodejs)
   - [PHP](https://telegram.me/joinchat/CKcrRUDOJwkooeKqcQk7Nw)
-  - [Python](https://telegram.me/Python_es) 
+  - [Python](https://telegram.me/Python_es)
   - [Java - Android](https://telegram.me/sdkandroid)
   - [Python - PyQt](https://telegram.me/pyqte)
   - [SQL](https://telegram.me/esequele)
@@ -68,12 +68,13 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [Assembler](https://t.me/AsmESP)
   - [Kotlin](https://t.me/kotlinES)
   - [Angular](https://t.me/AngularWeb)
-  
+
 - Russian
   - [Javascript](https://t.me/javascript_ru)
   - [CSS](https://t.me/css_ru)
   - [frontend_ru](https://t.me/frontend_ru)
   - [Python](https://t.me/itforge)
+  - [Ruby](https://t.me/rubyata)
 
 ## Unix-like distros
 
