@@ -31,6 +31,7 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [Linux gamming](https://t.me/EnLinuxjugamos)
   - [Window Managers hispano](https://t.me/window_manager_Latam)
   - [XFCE](https://telegram.me/grupoxfce)
+  - [Bitcoin (no trading)](https://t.me/Bitcoin_Tecnico)
 
 ## Programming Languages
 
