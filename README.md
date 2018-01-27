@@ -47,6 +47,7 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [Python](https://t.me/joinchat/AAAAAEI6mgRpU8Ook_LZiQ)
   - [PHP](https://t.me/joinchat/AAAAAEI7auDV7fUlhQpKbw)
   - [C#](https://t.me/joinchat/BkBvqUMHMofJD5zUIN16wg)
+  - [FreePascal](https://t.me/freepascal_en)
 
 - Spanish
   - [Python](http://Telegram.me/pythonesp)
@@ -77,6 +78,7 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [frontend_ru](https://t.me/frontend_ru)
   - [Python](https://t.me/itforge)
   - [Ruby](https://t.me/rubyata)
+  - [FreePascal](https://t.me/Delphi_Lazarus)
 
 ## Unix-like distros
 
