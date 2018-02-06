@@ -1,4 +1,5 @@
-# awesome-telegram-groups
+# Awesome telegram groups [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 List of telegram groups ~~sorted by number of members at the moment~~ without any special order (until I do something to automatically sort them)
 
 ## Contents
