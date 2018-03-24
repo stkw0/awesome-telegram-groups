@@ -19,6 +19,7 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [Android](https://t.me/joinchat/AAAAAEFs51MT1z2bWDhZBQ)
   - [DevOps](https://t.me/joinchat/BkBvqULzhcG1AhRE7ljMyg)
   - [Design](https://t.me/joinchat/AAAAAEKREgzW3ypwIjRwpQ)
+  - [GEEKS](https://t.me/Greek1)
 
 - Spanish
   - [Docker](https://telegram.me/DockerEs)
