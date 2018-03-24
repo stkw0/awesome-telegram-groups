@@ -34,6 +34,7 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [XFCE](https://telegram.me/grupoxfce)
   - [Bitcoin (no trading)](https://t.me/Bitcoin_Tecnico)
   - [Criptografa](https://t.me/criptored)
+  - [JugonesLinuxeros](https://t.me/jugoneslinuxeros)
 
 ## Programming Languages
 
