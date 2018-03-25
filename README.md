@@ -105,6 +105,7 @@ List of telegram groups ~~sorted by number of members at the moment~~ without an
   - [Devuan](https://t.me/devuanlinux)
   - [Void](https://t.me/Void_Linux_es)
   - [Gentoo](https://t.me/gentoo_rocks)
+  - [Hurd](https://t.me/grupohurd)
 
 ## Computer Security
 
