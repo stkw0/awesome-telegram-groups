@@ -37,6 +37,7 @@ btw, aslo for a "search engine" of telegram groups https://tgram.io seems pretty
   - [Bitcoin (no trading)](https://t.me/Bitcoin_Tecnico)
   - [Criptografa](https://t.me/criptored)
   - [JugonesLinuxeros](https://t.me/jugoneslinuxeros)
+  - [FPGAs](https://t.me/fpga_es)
 
 ## Programming Languages
 
