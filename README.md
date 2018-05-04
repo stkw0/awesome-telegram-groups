@@ -105,7 +105,6 @@ btw, aslo for a "search engine" of telegram groups https://tgram.io seems pretty
   - [Slackware](https://telegram.me/slackware_es)
   - [BSD](https://t.me/sistemasbsd)
   - [Devuan](https://t.me/devuanlinux)
-  - [Void](https://t.me/Void_Linux_es)
   - [Gentoo](https://t.me/gentoo_rocks)
   - [Hurd](https://t.me/grupohurd)
 
