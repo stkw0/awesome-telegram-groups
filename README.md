@@ -23,6 +23,7 @@ btw, aslo for a "search engine" of telegram groups https://tgram.io seems pretty
   - [Design](https://t.me/joinchat/AAAAAEKREgzW3ypwIjRwpQ)
 
 - Spanish
+  - [CleanCoders](https://t.me/cleancoders)
   - [Docker](https://telegram.me/DockerEs)
   - [Libros de Programación](https://t.me/LibPro)
   - [Telegram Bot Development](https://t.me/TgBotDevs)
@@ -30,6 +31,7 @@ btw, aslo for a "search engine" of telegram groups https://tgram.io seems pretty
   - [Game development](https://telegram.me/gamedev_es)
   - [Street Workout Hispano](https://t.me/SWHis)
   - [Freelancers Community](https://t.me/freelancersve)
+  - [Offtopic de programación](https://t.me/OfftopicProgramacion)
   - [Phaser.js, gamedev library](https://t.me/phaser_es)
   - [Linux gamming](https://t.me/EnLinuxjugamos)
   - [Window Managers hispano](https://t.me/window_manager_Latam)
@@ -55,14 +57,18 @@ btw, aslo for a "search engine" of telegram groups https://tgram.io seems pretty
   - [FreePascal](https://t.me/freepascal_en)
 
 - Spanish
+  - [Angular](https://t.me/AngularWeb)
+  - [Elixir en español](https://t.me/elixirES)
   - [Python](http://Telegram.me/pythonesp)
   - [General](https://telegram.me/general_programacion)
   - [Web](http://Telegram.me/programarwebs)
   - [Web](http://t.me/WebESP)
   - [Java for android](https://telegram.me/programacionjavaandroid)
+  - [.NET en Español](https://t.me/dotnetesp)
   - [Nodejs](https://telegram.me/programadores_nodejs)
   - [PHP](https://telegram.me/joinchat/CKcrRUDOJwkooeKqcQk7Nw)
   - [Python](https://telegram.me/Python_es)
+  - [Programación funcional](https://t.me/programacionFuncional)
   - [Java - Android](https://telegram.me/sdkandroid)
   - [Python - PyQt](https://telegram.me/pyqte)
   - [SQL](https://telegram.me/esequele)
