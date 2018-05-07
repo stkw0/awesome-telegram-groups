@@ -58,13 +58,13 @@ btw, aslo for a "search engine" of telegram groups https://tgram.io seems pretty
 
 - Spanish
   - [Angular](https://t.me/AngularWeb)
-  - [Elixir en español](https://t.me/elixirES)
+  - [Elixir](https://t.me/elixirES)
   - [Python](http://Telegram.me/pythonesp)
   - [General](https://telegram.me/general_programacion)
   - [Web](http://Telegram.me/programarwebs)
   - [Web](http://t.me/WebESP)
   - [Java for android](https://telegram.me/programacionjavaandroid)
-  - [.NET en Español](https://t.me/dotnetesp)
+  - [.NET](https://t.me/dotnetesp)
   - [Nodejs](https://telegram.me/programadores_nodejs)
   - [PHP](https://telegram.me/joinchat/CKcrRUDOJwkooeKqcQk7Nw)
   - [Python](https://telegram.me/Python_es)
