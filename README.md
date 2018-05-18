@@ -55,6 +55,7 @@ btw, aslo for a "search engine" of telegram groups https://tgram.io seems pretty
   - [PHP](https://t.me/joinchat/AAAAAEI7auDV7fUlhQpKbw)
   - [C#](https://t.me/joinchat/BkBvqUMHMofJD5zUIN16wg)
   - [FreePascal](https://t.me/freepascal_en)
+  - [SuperCollider](https://t.me/supercollider_en)
 
 - Spanish
   - [Angular](https://t.me/AngularWeb)
@@ -69,6 +70,7 @@ btw, aslo for a "search engine" of telegram groups https://tgram.io seems pretty
   - [PHP](https://telegram.me/joinchat/CKcrRUDOJwkooeKqcQk7Nw)
   - [Python](https://telegram.me/Python_es)
   - [Programación funcional](https://t.me/programacionFuncional)
+  - [SuperCollider](https://t.me/supercollider_es)
   - [Java - Android](https://telegram.me/sdkandroid)
   - [Python - PyQt](https://telegram.me/pyqte)
   - [SQL](https://telegram.me/esequele)
