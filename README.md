@@ -55,7 +55,6 @@ btw, aslo for a "search engine" of telegram groups https://tgram.io seems pretty
   - [PHP](https://t.me/joinchat/AAAAAEI7auDV7fUlhQpKbw)
   - [C#](https://t.me/joinchat/BkBvqUMHMofJD5zUIN16wg)
   - [FreePascal](https://t.me/freepascal_en)
-  - [SuperCollider](https://t.me/supercollider_en)
 
 - Spanish
   - [Angular](https://t.me/AngularWeb)
