@@ -40,6 +40,12 @@ btw, aslo for a "search engine" of telegram groups https://tgram.io seems pretty
   - [Criptografa](https://t.me/criptored)
   - [JugonesLinuxeros](https://t.me/jugoneslinuxeros)
   - [FPGAs](https://t.me/fpga_es)
+  - [Raspberry Pi](https://t.me/GrupoRaspberryPi)
+  - [Orange Pi](https://t.me/naranjapi)
+  - [Arduino](https://t.me/arduchino)
+  - [Impresión 3D](https://t.me/imprime3d)
+  - [Diseño 3D](https://t.me/disenos3d)
+  - [Domótica Domology](https://t.me/Domology)
 
 ## Programming Languages
 
