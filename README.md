@@ -86,11 +86,12 @@ btw, for a "search engine" of telegram groups https://tgram.io seems pretty good
   - [Rust](https://t.me/rust_es)
   - [Ruby](https://t.me/Ruby_es)
   - [Ruby](https://t.me/rubymotions)
-  - [Golang](https://t.me/Go_es)
+  - [Golang](https://t.me/go_espana)
   - [Assembler](https://t.me/AsmESP)
   - [Kotlin](https://t.me/kotlinES)
   - [Angular](https://t.me/AngularWeb)
   - [Ethereum](https://t.me/ethesp)
+  - [Vue.js](https://t.me/vuejsgroup)
 
 - Russian
   - [Javascript](https://t.me/javascript_ru)
