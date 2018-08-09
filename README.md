@@ -90,6 +90,7 @@ btw, for a "search engine" of telegram groups https://tgram.io seems pretty good
   - [Assembler](https://t.me/AsmESP)
   - [Kotlin](https://t.me/kotlinES)
   - [Angular](https://t.me/AngularWeb)
+  - [Ethereum](https://t.me/ethesp)
   - [Vue.js](https://t.me/vuejsgroup)
 
 - Russian
