@@ -1,8 +1,8 @@
 # Awesome telegram groups [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
-List of telegram groups ~~sorted by number of members at the moment~~ without any special order (until I do something to automatically sort them)
+List of telegram groups without any special order
 
-btw, for a "search engine" of telegram groups https://tgram.io seems pretty good 
+For a search engine of telegram groups https://tgram.io seems pretty good 
 
 ## Contents
 
