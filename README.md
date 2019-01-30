@@ -101,6 +101,7 @@ For a search engine of telegram groups https://tgram.io seems pretty good
   - [frontend_ru](https://t.me/frontend_ru)
   - [Python](https://t.me/itforge)
   - [Ruby](https://t.me/rubyata)
+  - [Ruby: Russia, Krasnodar](https://t.me/rubykrd)
   - [FreePascal](https://t.me/Delphi_Lazarus)
 
 ## Unix-like distros
