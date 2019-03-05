@@ -119,7 +119,6 @@ For a search engine of telegram groups https://tgram.io seems pretty good
 - Spanish
   - [General GNU/Linux](https://telegram.me/lignux)
   - [Arch](https://telegram.me/Archlinux_es)
-  - [Arch](https://t.me/ArchlinuxLatinoamerica)
   - [Manjaro](https://telegram.me/manjarolinuxes)
   - [Debian](https://telegram.me/Debian_es)
   - [Fedora](https://t.me/fedoraesp)
