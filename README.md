@@ -22,6 +22,7 @@ For a search engine of telegram groups https://tgram.io seems pretty good
   - [DevOps](https://t.me/joinchat/BkBvqULzhcG1AhRE7ljMyg)
   - [Design](https://t.me/joinchat/AAAAAEKREgzW3ypwIjRwpQ)
   - [Blockchain Interest Group (BIG)](https://t.me/bigorg)
+  - [Electronics and Engineering Channel](https://t.me/EngineerAddict)
 
 - Spanish
   - [CleanCoders](https://t.me/cleancoders)
