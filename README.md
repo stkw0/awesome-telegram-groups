@@ -30,12 +30,9 @@ For a search engine of telegram groups https://tgram.io seems pretty good
   - [Telegram Bot Development](https://t.me/TgBotDevs)
   - [Hardware](https://telegram.me/pcMasterRaze)
   - [Game development](https://telegram.me/gamedev_es)
-  - [Street Workout Hispano](https://t.me/SWHis)
   - [Freelancers Community](https://t.me/freelancersve)
-  - [Offtopic de programación](https://t.me/OfftopicProgramacion)
   - [Phaser.js, gamedev library](https://t.me/phaser_es)
   - [Linux gamming](https://t.me/EnLinuxjugamos)
-  - [Window Managers hispano](https://t.me/window_manager_Latam)
   - [XFCE](https://telegram.me/grupoxfce)
   - [Bitcoin (no trading)](https://t.me/Bitcoin_Tecnico)
   - [Criptografa](https://t.me/criptored)
@@ -47,7 +44,6 @@ For a search engine of telegram groups https://tgram.io seems pretty good
   - [Impresión 3D](https://t.me/imprime3d)
   - [Diseño 3D](https://t.me/disenos3d)
   - [Domótica Domology](https://t.me/Domology)
-  - [Off-topic/debates/cosas "intelectuales"](https://t.me/thinker_lovers)
 
 ## Programming Languages
 
