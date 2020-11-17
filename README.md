@@ -35,6 +35,7 @@ For a search engine of telegram groups https://tgram.io seems pretty good
   - [Linux gamming](https://t.me/EnLinuxjugamos)
   - [XFCE](https://telegram.me/grupoxfce)
   - [Bitcoin (no trading)](https://t.me/Bitcoin_Tecnico)
+  - [Ethereum](https://t.me/ethesp)
   - [Criptografa](https://t.me/criptored)
   - [JugonesLinuxeros](https://t.me/jugoneslinuxeros)
   - [FPGAs](https://t.me/fpga_es)
@@ -44,6 +45,7 @@ For a search engine of telegram groups https://tgram.io seems pretty good
   - [Impresión 3D](https://t.me/imprime3d)
   - [Diseño 3D](https://t.me/disenos3d)
   - [Domótica Domology](https://t.me/Domology)
+  - [Computación Cuántica](https://t.me/quantumes)
 
 ## Programming Languages
 
@@ -89,7 +91,6 @@ For a search engine of telegram groups https://tgram.io seems pretty good
   - [Assembler](https://t.me/AsmESP)
   - [Kotlin](https://t.me/kotlinES)
   - [Angular](https://t.me/AngularWeb)
-  - [Ethereum](https://t.me/ethesp)
   - [Vue.js](https://t.me/vuejsgroup)
 
 - Russian
