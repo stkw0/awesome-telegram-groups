@@ -44,6 +44,7 @@ For a search engine of telegram groups https://tgram.io seems pretty good
   - [Impresión 3D](https://t.me/imprime3d)
   - [Diseño 3D](https://t.me/disenos3d)
   - [Domótica Domology](https://t.me/Domology)
+  - [Computación Cuántica](https://t.me/quantumes)
 
 ## Programming Languages
 
