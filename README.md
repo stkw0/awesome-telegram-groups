@@ -58,7 +58,7 @@ For a search engine of telegram groups https://tgram.io seems pretty good
   - [Java](https://t.me/joinchat/AAAAAEHS8_F0yoL401QNuQ)
   - [Javascript](https://t.me/joinchat/AAAAAEEU-CGtxqPvZzRXug)
   - [Python](https://t.me/joinchat/AAAAAEI6mgRpU8Ook_LZiQ)
-  - [PHP](https://t.me/joinchat/AAAAAEI7auDV7fUlhQpKbw))
+  - [PHP](https://t.me/joinchat/AAAAAEI7auDV7fUlhQpKbw)
   - [Rust Audio](https://t.me/joinchat/BfEhnw0l4386Uzi5elmGrQ)
   - [C#](https://t.me/joinchat/BkBvqUMHMofJD5zUIN16wg)
   - [FreePascal](https://t.me/freepascal_en)
